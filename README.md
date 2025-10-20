@@ -1,32 +1,40 @@
-# 📊 Power BI – Dashboard de Vendas
+# 📊 Power BI – Dashboard de Vendas para a Gatito Petshop
 
-Este projeto foi desenvolvido durante o curso **Power BI Desktop: construindo meu primeiro dashboard**, da Alura. O objetivo foi criar um painel interativo com os principais KPIs de vendas.
+Este projeto foi desenvolvido com base na necessidade real da **Gatito Petshop**, que buscava uma solução em Business Intelligence para acompanhar suas vendas e identificar oportunidades de crescimento. A entrega envolveu todo o ciclo de BI — desde a compreensão do negócio até a criação de um dashboard funcional e estratégico.
 
-## 🎯 Objetivos do projeto
+## O que foi desenvolvido
 
-- Criar um dashboard funcional no Power BI
-- Aplicar conceitos de modelagem de dados, DAX e visualização
-- Transformar dados brutos em insights visuais e claros
+- Construção **do zero** de um dashboard interativo no Power BI  
+- Aplicação completa do processo **ETL (Extract, Transform, Load)**:
+  - Extração dos dados brutos enviados pela Gatito Petshop  
+  - Tratamento e padronização das informações  
+  - Modelagem e carregamento no Power BI  
+- Definição das métricas após entrevista com a proprietária  
+- Criação de medidas em **DAX**  
+- Design focado em clareza e tomada de decisão
 
-## 🧰 Ferramentas utilizadas
+## Ferramentas e Técnicas Utilizadas
 
-- Power BI Desktop
-- DAX
-- Excel (dataset fornecido pela Alura)
+- Power BI Desktop  
+- Linguagem DAX  
+- Excel (datasets)  
+- Modelagem de Dados
 
-## 📌 Principais Métricas
+## Principais KPIs do Dashboard
 
-- Faturamento Total
-- Vendas por Produto
-- Receita por Categoria
-- Ticket Médio
+- **Faturamento Total**  
+- **Ticket Médio**  
+- **Receita por Categoria**  
+- **Vendas por Produto**  
+- **Performance por Região/Período**
 
-## 📷 Captura do Dashboard
+## Insights Gerados
 
-> Em breve: imagem do dashboard será adicionada aqui
+- Algumas categorias apresentaram maior margem de faturamento  
+- Regiões específicas performam melhor em determinados períodos  
+- Produtos com maior volume de venda não são necessariamente os mais lucrativos
 
-## 🧠 Insights extraídos
+## Resultado
 
-- Determinadas categorias possuem maior margem de faturamento.
-- Regiões específicas performam melhor em determinados períodos.
-- Produtos de alto volume nem sempre são os mais lucrativos.
+O dashboard final oferece à **Gatito Petshop** uma visão clara e estratégica das vendas, facilitando decisões baseadas em dados. 
+O projeto consolidou habilidades práticas em ETL, DAX, visualização e comunicação com stakeholders.
