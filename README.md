@@ -1,3 +1,4 @@
+# Version in English:
 # 📊 Power BI – Sales Dashboard for Gatito Petshop
 
 This project was developed based on a real business need from **Gatito Petshop**, which required a Business Intelligence solution to monitor sales and identify growth opportunities. The work covered the entire BI cycle — from understanding the business context to delivering a functional and strategic dashboard.
